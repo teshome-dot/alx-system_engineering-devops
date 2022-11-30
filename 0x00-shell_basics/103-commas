@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -a
-ls -m
-ls -la
+ls -xamp
