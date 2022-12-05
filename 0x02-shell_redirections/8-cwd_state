@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_CWD_Content
+ls -la > ls_CWD_content
